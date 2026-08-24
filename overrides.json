@@ -1,3 +1,125 @@
 {
-  "stations": {}
+  "stations": {},
+  "customStations": [
+    {
+      "id": "tdi-chill",
+      "name": "TDI CHILL",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://sindy.manifestcarparts.sbs/go2139",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/06/CHILL-min.jpg",
+      "tags": "tdi,chill,lounge",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-afro-house",
+      "name": "TDI AFRO HOUSE",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://zara.manifestcarparts.sbs/go2138",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/06/AFROHOUSE-min.jpg",
+      "tags": "tdi,afro,house",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-afro-pop-rnb",
+      "name": "TDI AFRO POP-RNB",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://vico.manifestcarparts.sbs/go2137",
+      "favicon": "https://player2.tdiradio.com/wp-content/uploads/sites/10/2025/08/TDIICON-300x300.png",
+      "tags": "tdi,afro,pop,rnb",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-old-gold-house",
+      "name": "TDI OLD GOLD HOUSE",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://runa.manifestcarparts.sbs/go2135",
+      "favicon": "https://player2.tdiradio.com/wp-content/uploads/sites/10/2025/08/TDIICON-300x300.png",
+      "tags": "tdi,old gold,house",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-night-club",
+      "name": "TDI NIGHT CLUB",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://lyra.manifestcarparts.sbs/go2132",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/06/NIGHTCLUB-min.jpg",
+      "tags": "tdi,night club,dance,house",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-happy-hits",
+      "name": "TDI HAPPY HITS",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://lina.manifestcarparts.sbs/go2131",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/06/HAPPYHITS-min.jpg",
+      "tags": "tdi,happy hits,pop,hits",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-love",
+      "name": "TDI LOVE",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://kenny.manifestcarparts.sbs/go2029",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/06/LOVE-min.jpg",
+      "tags": "tdi,love,ballads,pop",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-turbo-90",
+      "name": "TDI TURBO 90",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://dora.manifestcarparts.sbs/go2027",
+      "favicon": "https://player2.tdiradio.com/wp-content/uploads/sites/10/2025/08/TDIICON-300x300.png",
+      "tags": "tdi,turbo 90,90s",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-classics",
+      "name": "TDI CLASSICS",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://jarry.manifestcarparts.sbs/go2028",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/06/CLASSICS-min.jpg",
+      "tags": "tdi,classics",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "tdi-pop-up",
+      "name": "TDI POP UP",
+      "countryCode": "RS",
+      "state": "Beograd",
+      "streamUrl": "https://aria.manifestcarparts.sbs/go2026",
+      "favicon": "https://player.tdiradio.com/wp-content/uploads/sites/10/2019/07/POPUP-min.jpg",
+      "tags": "tdi,pop up,pop,hits",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    }
+  ]
 }
