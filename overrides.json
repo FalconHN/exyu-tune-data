@@ -120,6 +120,102 @@
       "codec": "",
       "bitrate": 0,
       "disabled": false
+    },
+    {
+      "id": "rtcg-rcg",
+      "name": "RCG",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "http://rtcg.ipradio.rs:9008/;",
+      "favicon": "",
+      "tags": "rtcg,radio crne gore,vijesti,muzika",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "rtcg-r98",
+      "name": "Radio 98",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "http://r98.ipradio.rs:10100/;",
+      "favicon": "",
+      "tags": "rtcg,radio 98,muzika",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "rtcg-yug",
+      "name": "RCG YUG",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "http://rtcg1.ipradio.rs:9103/;",
+      "favicon": "",
+      "tags": "rtcg,yug,ex-yu",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "rtcg-millennium",
+      "name": "RCG Millennium",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "http://rtcg1.ipradio.rs:9102/;",
+      "favicon": "",
+      "tags": "rtcg,millennium,muzika",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "radio-titograd-1",
+      "name": "Radio Titograd 1",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "https://stream.rcast.net/64511",
+      "favicon": "",
+      "tags": "titograd,pop,rock,ex-yu",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "radio-titograd-2-caffe",
+      "name": "Radio Titograd 2 Caffe",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "https://stream.rcast.net/62390",
+      "favicon": "https://www.exyuradio.net/pub/catalog/thumbs/radio-titograd-podgorica-uzivo.jpg",
+      "tags": "titograd,caffe,pop-rock,ex-yu,evergreen",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "radio-titograd-3-narodna",
+      "name": "Radio Titograd 3 Narodna",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "http://ca3.rcast.net:8054/;stream",
+      "favicon": "",
+      "tags": "titograd,narodna,starogradska,folk",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
+    },
+    {
+      "id": "radio-d-podgorica",
+      "name": "Radio D Podgorica",
+      "countryCode": "ME",
+      "state": "Podgorica",
+      "streamUrl": "https://radiod.radioca.st/xstream",
+      "favicon": "",
+      "tags": "radio d,podgorica",
+      "codec": "",
+      "bitrate": 0,
+      "disabled": false
     }
   ]
 }
