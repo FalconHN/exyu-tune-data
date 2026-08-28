@@ -3,7 +3,7 @@
     "builtin:radio-herceg-novi": {
       "streamUrl": "http://s2.voscast.com:10354/",
       "name": "Radio Herceg Novi",
-      "favicon": "",
+      "favicon": "http://www.exyuradio.net/pub/catalog/radio-herceg-novi-uzivo-2021.jpg",
       "disabled": false
     }
   },
