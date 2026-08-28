@@ -199,7 +199,7 @@
       "countryCode": "ME",
       "state": "Podgorica",
       "streamUrl": "http://ca3.rcast.net:8054/;stream",
-      "favicon": "",
+      "favicon": "http://www.exyuradio.net/pub/catalog/thumbs/radio-titograd-podgorica-uzivo.jpg",
       "tags": "titograd,narodna,starogradska,folk",
       "codec": "",
       "bitrate": 0,
