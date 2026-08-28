@@ -1,5 +1,12 @@
 {
-  "stations": {},
+  "stations": {
+    "builtin:radio-herceg-novi": {
+      "streamUrl": "http://s2.voscast.com:10354/",
+      "name": "Radio Herceg Novi",
+      "favicon": "",
+      "disabled": false
+    }
+  },
   "customStations": [
     {
       "id": "tdi-chill",
