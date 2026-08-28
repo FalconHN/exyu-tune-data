@@ -133,7 +133,7 @@
       "name": "RCG",
       "countryCode": "ME",
       "state": "Podgorica",
-      "streamUrl": "https://rtcgradio-live.morescreens.com/RTCG_2_005/playlist.m3u8",
+      "streamUrl": "https://rtcgradio-live.morescreens.com/RTCG_2_005/chunklist.m3u8",
       "favicon": "https://rtcg.spectar.tv/assets/rcg.jpg",
       "tags": "rtcg,radio crne gore,vijesti,muzika",
       "codec": "",
